@@ -1,0 +1,5 @@
+H3K27me3	-	promotor;gen	H3K27me3_20-24hr.bed
+H3K9me3	-	promotor;gen	GSE16013_H3K9me3_20-24hr.bed
+H3K4me3	+	promotor	GSE16013_H3K4me3_20-24hr.bed
+H3K4me1	+	promotor	GSE16013_H3K4me_20-24hr.bed
+H3K27ac	+	promotor	GSE16013_H3K27ac_20-24hr.bed

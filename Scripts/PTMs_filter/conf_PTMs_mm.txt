@@ -1,0 +1,2 @@
+H3K27me3	-	gene
+H3K4me3	+	gene

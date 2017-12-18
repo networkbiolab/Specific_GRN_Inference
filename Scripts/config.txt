@@ -1,0 +1,54 @@
+#CONFIG_FILE
+
+ref_TFBS_target = Y
+ref_miRNA_target = Y
+PTMs_filter = Y
+comb_PTMs_filter = Y
+CRMs = Y
+DNAse_hyper = Ys
+Meth = Ys
+Iso_filter = Ys
+TF_express_filter = Y
+miRNAs_express_filter = Y
+
+GENEs_file = /media/leandro/4c7652cb-e164-4b45-8771-f9df4ff9d85d/Metodo_redes_tesis_2.0/Scripts/example_data/dmel-all-filtered-r6.12-GENES.gff
+TFBSs_file = /media/leandro/4c7652cb-e164-4b45-8771-f9df4ff9d85d/Metodo_redes_tesis_2.0/Scripts/example_data/dmel-all-filtered-r6.12-TFBS.gff
+synonyms_file = fb_synonym_fb_2016_04.tsv
+D_region = 1500
+case = 1
+
+miRecords_file = miRNA_net/mirecords.tsv
+mirTarbase_file = miRNA_net/mirTarbase.tsv
+Tarbase_file = miRNA_net/tarbase_data.csv
+
+config_PTMs = PTMs_filter/conf_PTMs.txt
+#PTM	open(+)/close(-)	promotor/gen	location_exp
+"H3K27me3	-	promotor;gen	/media/leandro/4c7652cb-e164-4b45-8771-f9df4ff9d85d/Metodo_redes_tesis_2.0/Scripts/example_data/H3K27me3_0-4hr.bed",
+"H3K9me3	-	promotor;gen	/media/leandro/4c7652cb-e164-4b45-8771-f9df4ff9d85d/Metodo_redes_tesis_2.0/Scripts/example_data/GSE16013_H3K9me3_0-4hr.bed",
+"H3K4me3	+	promotor	/media/leandro/4c7652cb-e164-4b45-8771-f9df4ff9d85d/Metodo_redes_tesis_2.0/Scripts/example_data/GSE16013_H3K4me3_0-4hr.bed",
+"H3K4me1	+	promotor	/media/leandro/4c7652cb-e164-4b45-8771-f9df4ff9d85d/Metodo_redes_tesis_2.0/Scripts/example_data/GSE16013_H3K4me_0-4hr.bed",
+"H3K27ac	+	promotor	/media/leandro/4c7652cb-e164-4b45-8771-f9df4ff9d85d/Metodo_redes_tesis_2.0/Scripts/example_data/GSE16013_H3K27ac_0-4hr.bed"
+
+config_comb_PTMs = PTMs_filter/conf_comb_PTMs.txt 
+#comb_PTM	open(+)/close(-)
+"H3K4me2;H3K9ac;H3K14ac	+",
+"H3K4me3;H3K4me2;H3K9ac	+",
+"H3K4me3;H3K9ac;H3K27ac	+",
+"H3K27me3;H3K9me3	-",
+"H3K4me2;H3K4me3;H3K36me2;H3K36me3	+",
+"H3K27me3;H4K20me3	-",
+"H3K9me2;H3K9me3	-",
+"H3K27me2;H3K27me3	+",
+"H3K4me3;H3K9ac	+"
+
+RPKM_file = /media/leandro/4c7652cb-e164-4b45-8771-f9df4ff9d85d/Metodo_redes_tesis_2.0/Scripts/example_data/mE_mRNA_em2-4hr.tsv
+
+CRMs_file = /media/leandro/4c7652cb-e164-4b45-8771-f9df4ff9d85d/Metodo_redes_tesis_2.0/Scripts/example_data/CRMs_coor_dm6.txt
+iso_file = /media/leandro/4c7652cb-e164-4b45-8771-f9df4ff9d85d/Metodo_redes_tesis_2.0/Scripts/iso_module/exp_prot_ais.txt
+D_iso = 1500
+
+DNAse_file = /media/leandro/4c7652cb-e164-4b45-8771-f9df4ff9d85d/Metodo_redes_tesis_2.0/Scripts/DNAse_hyper_Meth/dnase_exp_pryeba.bed
+score_dnase = 500
+Meth_file = /media/leandro/4c7652cb-e164-4b45-8771-f9df4ff9d85d/Metodo_redes_tesis_2.0/Scripts/DNAse_hyper_Meth/prueba_bed_2.bed
+porc_meth = 50
+#/media/leandro/4c7652cb-e164-4b45-8771-f9df4ff9d85d/Metodo_redes_tesis_2.0/Scripts/config.txt

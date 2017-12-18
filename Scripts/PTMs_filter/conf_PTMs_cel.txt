@@ -1,0 +1,11 @@
+H3K4me2	+	gene
+H3K4me3	+	promotor;gene
+H3K36me2	+	gene
+H3K36me3	+	gene
+H3K23ac	+	gene
+H3K27ac	+	gene
+H3K27me2	-	promotor
+H3K27me3	-	promotor
+H3K9me1		-	promotor
+H3K9me2	-	gene
+H3K9me3	-	promotor;gene

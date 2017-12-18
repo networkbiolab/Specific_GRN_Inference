@@ -1,0 +1,5 @@
+H3K27me3	-	promotor;gen	example_data/H3K27me3_0-4hr.bed
+H3K9me3	-	promotor;gen	example_data/GSE16013_H3K9me3_0-4hr.bed
+H3K4me3	+	promotor	example_data/GSE16013_H3K4me3_0-4hr.bed
+H3K4me1	+	promotor	example_data/GSE16013_H3K4me_0-4hr.bed
+H3K27ac	+	promotor	example_data/GSE16013_H3K27ac_0-4hr.bed

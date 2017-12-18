@@ -1,0 +1,124 @@
+mE_mRNA_A_MateM_4d_testis	FBlc0000217	:day 4 of adulthood:mated male	:testis 
+mE_mRNA_A_VirF_4d_head	FBlc0000211	:day 4 of adulthood:virgin female	:adult head 
+mE_mRNA_A_20d_carcass	FBlc0000220	:day 20 of adulthood	:integumentary system:muscle system	comment:reference states "carcass" 
+mE_mRNA_AdM_Ecl_30days	FBlc0000115	:day 30 of adulthood:male	:organism	comment:aged 30 days after eclosion 
+mE_mRNA_L3_EtOH_5	FBlc0000255	:third instar larval stage	:organism	comment:treatment: ethanol exposure (5%) 
+mE_mRNA_em20-22hr	FBlc0000096	:embryonic stage 17(iii)	:organism	comment:20-22 hr 
+BCM_1_MA3d	FBlc0000069	:adult stage:male	:organism	comment:aged 2-3 days post-eclosion 
+mE_mRNA_D17-c3_cells	FBlc0000273	:third instar larval stage	:haltere disc 
+mE_mRNA_A_MateM_1d_head	FBlc0000209	:day 1 of adulthood:mated male	:adult head 
+mE_mRNA_L1	FBlc0000098	:first instar larval stage	:organism 
+mE_mRNA_S2R+_cells	FBlc0000280	:late embryonic stage	:embryo 
+mE_mRNA_WPP	FBlc0000104	:prepupal stage P1	:organism 
+mE_mRNA_em10-12hr	FBlc0000091	:embryonic stage 13:15	:organism	comment:10-12 hr 
+mE_mRNA_L3_Wand_saliv	FBlc0000230	:wandering third instar larval stage	:embryonic/larval salivary gland 
+mE_mRNA_BG1-c1_cells	FBlc0000270	:third instar larval stage	:central nervous system 
+mE_mRNA_A_MateM_4d_head	FBlc0000216	:day 4 of adulthood:mated male	:adult head 
+mE_mRNA_fGS_cells	FBlc0000284	:adult stage	:ovary 
+mE_mRNA_GM2_cells	FBlc0000262	:embryonic stage	:embryo 
+mE_mRNA_A_4d_carcass	FBlc0000222	:day 4 of adulthood	:integumentary system:muscle system	comment:reference states "carcass" 
+mE_mRNA_CME_L1_cells	FBlc0000268	:third instar larval stage	:prothoracic leg disc 
+mE_mRNA_D32_cells	FBlc0000275	:third instar larval stage	:wing disc 
+mE_mRNA_L3_PS1-2	FBlc0000101	:third instar - uncleared gut stage	:organism	comment:indicated as puff stage 1-2 
+mE_mRNA_OSC_cells	FBlc0000283	:adult stage	:ovary 
+mE_mRNA_A_MateM_20d_head	FBlc0000214	:day 20 of adulthood:mated male	:adult head 
+mE_mRNA_A_10d_Rotenone_Starved	FBlc0000673	:day 10 of adulthood	:organism 
+mE_mRNA_Sg4_cells	FBlc0000281	:embryonic stage	:embryo 
+mE_mRNA_A_MateF_4d_ovary	FBlc0000208	:day 4 of adulthood:mated female	:ovary 
+mE_mRNA_A_4d_Cold2	FBlc0000238	:day 4 of adulthood	:organism	comment:treatment: cold treatment 2 
+mE_mRNA_P8	FBlc0000107	:pharate adult stage P8	:organism	comment:aged 2 days after collection as white prepupae 
+mE_mRNA_S3_cells	FBlc0000266	:late embryonic stage	:embryo 
+mE_mRNA_mbn2_cells	FBlc0000263	:larval stage	:embryonic/larval circulatory system 
+mE_mRNA_A_4d_Paraquat_5mM	FBlc0000250	:day 4 of adulthood	:organism	comment:treatment: paraquat exposure (5mM) 
+mE_mRNA_P8_CNS	FBlc0000224	:pharate adult stage P8	:adult central nervous system 
+mE_mRNA_OSS_cells	FBlc0000282	:adult stage	:ovary 
+mE_mRNA_P15	FBlc0000109	:pharate adult stage P15	:organism	comment:aged 4 days after collection as white prepupae 
+mE_mRNA_P_Sindbis_virus	FBlc0000677	:pupal stage	:organism	comment:mixed age and sex 
+mE_mRNA_L3_Caffeine_1.5mg/ml	FBlc0000245	:third instar larval stage	:organism	comment:treatment: caffeine exposure 
+mE_mRNA_D16-c3_cells	FBlc0000272	:third instar larval stage	:wing disc 
+mE_mRNA_A_4d_Heatshock	FBlc0000257	:day 4 of adulthood	:organism	comment:treatment: heatshock 
+mE_mRNA_L3_PS3-6	FBlc0000102	:third instar - partially cleared gut stage	:organism	comment:indicated as puff stage 3-6 
+mE_mRNA_A_MateF_4d_head	FBlc0000213	:day 4 of adulthood:mated female	:adult head 
+mE_mRNA_A_4d_Cu_15mM	FBlc0000241	:day 4 of adulthood	:organism	comment:treatment: Cu exposure (15mM) 
+mE_mRNA_em2-4hr	FBlc0000087	:embryonic stage 4:9	:organism	comment:2-4 hr 
+BCM_1_FA3d	FBlc0000068	:adult stage:female	:organism	comment:aged 2-3 days post-eclosion 
+mE_mRNA_P8_fat	FBlc0000235	:pharate adult stage P8	:adult fat body 
+mE_mRNA_WPP_saliv	FBlc0000234	:prepupal stage P1	:embryonic/larval salivary gland 
+mE_mRNA_AdM_Ecl_5days	FBlc0000114	:day 5 of adulthood:male	:organism	comment:aged 5 days after eclosion 
+mE_mRNA_A_4d_Caffeine_25mg/ml	FBlc0000243	:day 4 of adulthood	:organism	comment:treatment: caffeine exposure (high dose, shorter duration) 
+mE_mRNA_A_MateF_20d_head	FBlc0000212	:day 20 of adulthood:mated female	:adult head 
+mE_mRNA_em4-6hr	FBlc0000088	:embryonic stage 9:11	:organism	comment:4-6 hr 
+Knoblich_mRNA_L3_CNS_neuroblast	FBlc0000505	:third instar larval stage	:embryonic/larval neuroblast:embryonic/larval central nervous system 
+mE_mRNA_A_1d_carcass	FBlc0000218	:day 1 of adulthood	:integumentary system:muscle system	comment:reference states "carcass" 
+BCM_1_E2-16hr100	FBlc0000064	:embryonic stage 4:16	:organism	comment:2-16 hr 
+mE_mRNA_L3_Wand_imag_disc	FBlc0000229	:wandering third instar larval stage	:imaginal disc 
+mE_mRNA_A_MateF_1d_head	FBlc0000207	:day 1 of adulthood:mated female	:adult head 
+mE_mRNA_P9-10	FBlc0000108	:pharate adult stage P9:P10	:organism	comment:aged 3 days after collection as white prepupae 
+mE_mRNA_em16-18hr	FBlc0000094	:embryonic stage 17(i)	:organism	comment:16-18 hr 
+mE_mRNA_F_Sindbis_virus	FBlc0000674	:day 4 of adulthood:female	:organism 
+mE_mRNA_L3_Wand_carcass	FBlc0000226	:wandering third instar larval stage	:integumentary system:muscle system	comment:reference states "carcass" 
+mE_mRNA_L_Sindbis_virus	FBlc0000675	:larval stage	:organism	comment:mixed age and sex 
+mE_mRNA_L3_Wand_dig_sys	FBlc0000227	:wandering third instar larval stage	:embryonic/larval digestive system 
+mE_mRNA_em0-2hr	FBlc0000086	:embryonic stage 1:4	:organism	comment:0-2 hr 
+mE_mRNA_L3_Rotenone_8ug	FBlc0000252	:third instar larval stage	:organism	comment:treatment: rotenone exposure (8ug/ml) 
+mE_mRNA_A_4d_Paraquat_10mM	FBlc0000251	:day 4 of adulthood	:organism	comment:treatment: paraquat exposure (10mM) 
+mE_mRNA_D4-c1_cells	FBlc0000276	:third instar larval stage	:imaginal disc 
+mE_mRNA_CME-W2_cells	FBlc0000261	:third instar larval stage	:wing disc 
+mE_mRNA_A_1d_dig_sys	FBlc0000219	:day 1 of adulthood	:pupal/adult digestive system 
+mE_mRNA_em12-14hr	FBlc0000092	:embryonic stage 15:16	:organism	comment:12-14 hr 
+mE_mRNA_BG2-c2_cells	FBlc0000264	:third instar larval stage	:central nervous system 
+mE_mRNA_Kc167_cells	FBlc0000269	:dorsal closure stage	:embryo 
+BCM_1_L3i100	FBlc0000066	:late third instar larval stage	:organism	comment:wandering 
+mE_mRNA_AdM_Ecl_1days	FBlc0000113	:day 1 of adulthood:male	:organism	comment:aged 1 day after eclosion 
+mE_mRNA_A_MateM_4d_acc_gland	FBlc0000215	:day 4 of adulthood:mated male	:male accessory gland 
+mE_mRNA_P5	FBlc0000105	:pupal stage P5	:organism	comment:aged 12 hrs after collection as white prepupae 
+mE_mRNA_A_4d_Caffeine_2.5mg/ml	FBlc0000244	:day 4 of adulthood	:organism	comment:treatment: caffeine exposure (low dose, longer duration) 
+mE_mRNA_L3_Wand_fat	FBlc0000228	:wandering third instar larval stage	:embryonic/larval fat body 
+mE_mRNA_A_4d_Cd_0.1M	FBlc0000246	:day 4 of adulthood	:organism	comment:treatment: cadmium exposure (0.1M) 
+BCM_1_E2-16hr	FBlc0000063	:embryonic stage 4:16	:organism	comment:2-16 hr 
+mE_mRNA_D9_cells	FBlc0000278	:third instar larval stage	:wing disc 
+mE_mRNA_A_4d_Cold1	FBlc0000237	:day 4 of adulthood	:organism	comment:treatment: cold treatment 1 
+mE_mRNA_L3_Cd_6hr	FBlc0000249	:third instar larval stage	:organism	comment:treatment: cadmium exposure (0.05M, 6 hrs.) 
+Knoblich_mRNA_L3_CNS_neuron	FBlc0000506	:third instar larval stage	:embryonic/larval neuron:embryonic/larval central nervous system 
+mE_mRNA_AdF_Ecl_1days	FBlc0000110	:day 1 of adulthood:female	:organism	comment:aged 1 day after eclosion 
+mE_mRNA_L3_PS7-9	FBlc0000103	:third instar - cleared gut stage	:organism	comment:indicated as puff stage 7-9 
+mE_mRNA_A_VirF_1d_head	FBlc0000210	:day 1 of adulthood:virgin female	:adult head 
+BCM_1_E14-16hr	FBlc0000062	:embryonic stage 16	:organism	comment:14-16 hr 
+mE_mRNA_A_10d_Resveratrol_100uM	FBlc0000672	:day 10 of adulthood	:organism 
+BCM_1_P	FBlc0000070	:pupal stage	:organism	comment:aged 1 to 5 days after collection as third instar larvae 
+mE_mRNA_L3_late_Zn_5mM	FBlc0000240	:late third instar larval stage	:organism	comment:treatment: Zn exposure (5mM) 
+BCM_1_A17d	FBlc0000072	:adult stage	:organism	comment:aged 17 days post-eclosion 
+mE_mRNA_L3_EtOH_2.5	FBlc0000256	:third instar larval stage	:organism	comment:treatment: ethanol exposure (2.5%) 
+mE_mRNA_L3_Cd_12h	FBlc0000248	:third instar larval stage	:organism	comment:treatment: cadmium exposure (0.05M, 12 hrs.) 
+mE_mRNA_L3_CNS	FBlc0000225	:third instar larval stage	:embryonic/larval central nervous system 
+BCM_1_E2-4hr	FBlc0000061	:embryonic stage 4:9	:organism	comment:2-4hr 
+mE_mRNA_S1_cells	FBlc0000279	:late embryonic stage	:embryo 
+BCM_1_P3d	FBlc0000067	:pupal stage P6:pharate adult stage P10	:organism	comment:aged 72 hrs after collection as third instar larvae 
+mE_mRNA_em22-24hr	FBlc0000097	:embryonic stage 17(iv)	:organism	comment:22-24 hr 
+mE_mRNA_P6	FBlc0000106	:pupal stage P6	:organism	comment:aged 24 hrs after collection as white prepupae 
+mE_mRNA_L2	FBlc0000099	:second instar larval stage	:organism 
+mE_mRNA_A_4d_Zn_4.5mM	FBlc0000242	:day 4 of adulthood	:organism	comment:treatment: Zn exposure (4.5mM) 
+mE_mRNA_D8_cells	FBlc0000277	:third instar larval stage	:wing disc 
+mE_mRNA_AdF_Ecl_30days	FBlc0000112	:day 30 of adulthood:female	:organism	comment:aged 30 days after eclosion 
+mE_mRNA_em8-10hr	FBlc0000090	:embryonic stage 12:13	:organism	comment:8-10 hr 
+BCM_1_L3i	FBlc0000065	:late third instar larval stage	:organism	comment:wandering 
+mE_mRNA_A_4d_Cd_0.05M	FBlc0000247	:day 4 of adulthood	:organism	comment:treatment: cadmium exposure (0.05M) 
+mE_mRNA_A_VirF_4d_ovary	FBlc0000232	:day 20 of adulthood:virgin female	:ovary 
+mE_mRNA_L3_12hr	FBlc0000100	:early third instar larval stage	:organism	comment:12 hr post-molt 
+mE_mRNA_em18-20hr	FBlc0000095	:embryonic stage 17(ii)	:organism	comment:18-20 hr 
+mE_mRNA_M_Sindbis_virus	FBlc0000676	:day 4 of adulthood:male	:organism 
+mE_mRNA_L3_Cu_0.5mM	FBlc0000239	:third instar larval stage	:organism	comment:treatment: Cu exposure (0.5mM) 
+mE_mRNA_D21_cells	FBlc0000274	:third instar larval stage	:wing disc 
+mE_mRNA_AdF_Ecl_5days	FBlc0000111	:day 5 of adulthood:female	:organism	comment:aged 5 days after eclosion 
+mE_mRNA_A_20d_dig_sys	FBlc0000221	:day 20 of adulthood	:pupal/adult digestive system 
+mE_mRNA_D11_cells	FBlc0000271	:third instar larval stage	:eye-antennal disc 
+BCM_1_L	FBlc0000071	:second instar larval stage:third instar larval stage	:organism	comment:48 to 120 hrs post egg-lay 
+mE_mRNA_L3_Rotenone_2ug	FBlc0000253	:third instar larval stage	:organism	comment:treatment: rotenone exposure (2ug/ml) 
+mE_mRNA_em14-16hr	FBlc0000093	:embryonic stage 16	:organism	comment:14-16 hr 
+mE_mRNA_A_VirF_20d_head	FBlc0000231	:day 20 of adulthood:virgin female	:adult head 
+mE_mRNA_D20-c5_cells	FBlc0000265	:third instar larval stage	:antennal disc 
+mE_mRNA_em6-8hr	FBlc0000089	:embryonic stage 11:12	:organism	comment:6-8 hr 
+mE_mRNA_L3_EtOH_10	FBlc0000254	:third instar larval stage	:organism	comment:treatment: ethanol exposure (10%) 
+mE_mRNA_WPP_fat	FBlc0000233	:prepupal stage P1	:embryonic/larval fat body 
+mE_mRNA_1182-4H_cells	FBlc0000267	:embryonic stage	:embryo 
+mE_mRNA_A_4d_dig_sys	FBlc0000223	:day 4 of adulthood	:pupal/adult digestive system 

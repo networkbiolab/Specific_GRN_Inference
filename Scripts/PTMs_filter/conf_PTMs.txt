@@ -1,0 +1,5 @@
+H3K27me3	-	promotor;gen	/media/leandro/4c7652cb-e164-4b45-8771-f9df4ff9d85d/Metodo_redes_tesis_2.0/Scripts/example_data/H3K27me3_0-4hr.bed
+H3K9me3	-	promotor;gen	/media/leandro/4c7652cb-e164-4b45-8771-f9df4ff9d85d/Metodo_redes_tesis_2.0/Scripts/example_data/GSE16013_H3K9me3_0-4hr.bed
+H3K4me3	+	promotor	/media/leandro/4c7652cb-e164-4b45-8771-f9df4ff9d85d/Metodo_redes_tesis_2.0/Scripts/example_data/GSE16013_H3K4me3_0-4hr.bed
+H3K4me1	+	promotor	/media/leandro/4c7652cb-e164-4b45-8771-f9df4ff9d85d/Metodo_redes_tesis_2.0/Scripts/example_data/GSE16013_H3K4me_0-4hr.bed
+H3K27ac	+	promotor	/media/leandro/4c7652cb-e164-4b45-8771-f9df4ff9d85d/Metodo_redes_tesis_2.0/Scripts/example_data/GSE16013_H3K27ac_0-4hr.bed
